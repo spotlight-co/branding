@@ -1,1 +1,3 @@
-# press-kit
+# Branding
+
+- Logo
